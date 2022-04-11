@@ -54,17 +54,6 @@ class _MyHomePageState extends State<MyHomePage>
       bottomNavigationBar: Container(
         margin: EdgeInsets.only(left: 15, right: 15, bottom: 10),
         height: 55,
-        //decoration: BoxDecoration(
-        //color: Colors.white,
-        //borderRadius: BorderRadius.only(
-        //bottomLeft: Radius.circular(30.0),
-        //bottomRight: Radius.circular(30.0),
-        //),
-        //),
-        //child: Row(
-        // mainAxisAlignment: MainAxisAlignment.spaceEvenly,
-        //children: [
-        // Expanded(
         child: Container(
           margin: EdgeInsets.only(),
           decoration: BoxDecoration(
